@@ -2,7 +2,7 @@
 <h3 align="left">A frontend developer based in Warsaw, Poland</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React with Redux**
 
 - 📫 How to reach me **vladyslav.brataniuk@gmail.com**
 
