@@ -2,7 +2,7 @@
 <h3 align="left">A frontend developer based in Warsaw, Poland</h3>
 
 
-- 🌱 I’m currently working on my projects and looking for **job opportunities**, while learning NextJs.
+- 🌱 I’m currently employed by Accenture as Data analyst; working on my projects and looking for **job opportunities**.
 
 - 📫 How to reach me **vladyslav.brataniuk@gmail.com**
 
