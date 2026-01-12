@@ -32,5 +32,4 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=culplate&theme=tokyonight)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=culplate&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="culplate" /></p>
 
